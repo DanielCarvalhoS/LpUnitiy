@@ -29,3 +29,4 @@
 ## Gravidade aplicada:
 https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/55b90ebb-2b04-44ee-ae44-3af06b6fe6a7
 
+- Finalizando, fomos até os Assets e encontramos a opção Physic Material, deixamos as configurações normais e colocamos ele dentro do nosso pássaro. Logo em seguída, adicionamos um componente chamado "Rigidybody" que fez com que o nosso pássaro sofrece as ações da gravidade, dando o sentimento do voo. Modificamos a Mass, Drag e Angular Drag como desejada, fazendo o efeito mostrado no vídeo acima.
