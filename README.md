@@ -1,7 +1,7 @@
 # Atividade Unity.
 
 ## História/Contexto de Cena:
-- Nós somos do Zanimal Chennal. Estamos obeservando a vida de um pequeno passáro que adora voar por ai. Enquanto vemos a beleza da natureza e seus pequenos e lindos momentos. 
+- O Contexto geral da nossa cena é basicamente a vida de um pequeno pássaro que mora na floresta, porém que é filmado por humanos que possuem um canal, este nomeado Zennimal Chennal. Eles mostram a vida alheia do nosso querido pássaro. Este, que gosta bastante da companhia dos nossos queridos humanos, ama brincar com eles e aproveitar o momento. Junto disso, uma linda natureza a sua volta.
 
 ## Cenas
 - Na primeira cena, nós dividimos onde vamos colocar cada parte do cenário, criando "Cubes" para ser o nosso chão. Então colocamos uma coloração verde (Criando um material, e modificando sua cor para o verde), assim podendo ser facilmente diferenciada.
@@ -17,9 +17,15 @@
 ![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/b77f27f4-7db6-4a6f-bf42-ca01b4db0185)
 
 - E para finalizar, colocamos uma pequena casa, que são dos criadores de Zanimal Chennal. Nela já aproveitamos e deixamos com uma carinha mais "humana", assim colocando mais objetos para nossos criadores. (Todos os objetos usados foram pegos na Assets Store.)
-![Uploading image.png…]()
+![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/94676f32-f7ea-4939-adfa-e47fec35fae3)
 
 - Nisso, temos aqui nosso querido pássaro, nomeado Isag, sendo o nosso querido mascote e personagem príncipal (Isag foi feito pela Asset Store.)
+![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/17c700d0-6923-4d60-bece-b03ce2c32abf)
+
+## Modelos Utilizados:
 ![Uploading image.png…]()
 
+
+## Gravidade aplicada:
+https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/55b90ebb-2b04-44ee-ae44-3af06b6fe6a7
 
