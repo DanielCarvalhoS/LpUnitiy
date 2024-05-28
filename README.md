@@ -11,7 +11,7 @@
 ![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/3be22c4b-7008-4e61-9d64-fc9e4a80b37f)
 
 - Sem perder o tempo, aproveitamos e já colocamos em prática a nossa natureza local. Adicionamos conjuntos de árvores. Assim o nosso pequeno amiguinho, passáro, pode ter o seu local de vivência. (Ambas árvores vieram da Assets Store do Unity, com uma adição de "plates" com o material escrito "área restrita" em algumas árvores.)
-![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/e1d15bd9-b939-480d-93b1-394bd92b3839)
+![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/9cee747e-cb0e-41a8-b6f6-2a368820b3d3)
 
 - Com a adição de uma pequena passagem água, também colocamos uma vegetação humilde, com várias gramas e plantas, assim deixando o ambiente mais e mais natural. (Água e Grama foram pegas da Assets Store.)
 ![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/b77f27f4-7db6-4a6f-bf42-ca01b4db0185)
