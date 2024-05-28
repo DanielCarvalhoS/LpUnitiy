@@ -1,4 +1,5 @@
-# Atividade Unity.
+# Atividade Unity. 
+## Dupla: Daniel Carvalho da Silva e Christian Varandas
 
 ## História/Contexto de Cena:
 - O Contexto geral da nossa cena é basicamente a vida de um pequeno pássaro que mora na floresta, porém que é filmado por humanos que possuem um canal, este nomeado Zennimal Chennal. Eles mostram a vida alheia do nosso querido pássaro. Este, que gosta bastante da companhia dos nossos queridos humanos, ama brincar com eles e aproveitar o momento. Junto disso, uma linda natureza a sua volta. Porém é importante ressaltar que o nosso querido pássaro é o ultimo de sua especie... Oque faz a área ser extremamente restrita, por isso tantas placas.
