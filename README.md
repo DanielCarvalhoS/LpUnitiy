@@ -27,7 +27,6 @@ ________________________________________________________________________________
 - E para finalizar, colocamos uma pequena casa, que são dos criadores de Zanimal Chennal. Nela já aproveitamos e deixamos com uma carinha mais "humana", assim colocando mais objetos para nossos criadores. (Todos os objetos usados foram pegos na Assets Store.)
 
   ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/94676f32-f7ea-4939-adfa-e47fec35fae3)
 
 - Nisso, temos aqui nosso querido pássaro, nomeado Isag, sendo o nosso querido mascote e personagem príncipal, junto de sua bolinha. (Isag foi feito pela Asset Store.)
 
@@ -35,8 +34,9 @@ https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/d75ec074-eb82-47ab-
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Modelos Utilizados:
 
-![Uploading image.png…]()
+![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/94676f32-f7ea-4939-adfa-e47fec35fae3)
 
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## GameObjects Utilizados:
 Plate (Para o chão) 
 Cubes (Para as modificações no terreno)
