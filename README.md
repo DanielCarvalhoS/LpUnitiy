@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - Com a adição de uma pequena passagem água, também colocamos uma vegetação humilde, com várias gramas e plantas, assim deixando o ambiente mais e mais natural. (Água e Grama foram pegas da Assets Store.)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/b77f27f4-7db6-4a6f-bf42-ca01b4db0185)
+![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/19c0a5b7-b15e-4943-a7b4-7113ffa2f1c5)
 
 - E para finalizar, colocamos uma pequena casa, que são dos criadores de Zanimal Chennal. Nela já aproveitamos e deixamos com uma carinha mais "humana", assim colocando mais objetos para nossos criadores. (Todos os objetos usados foram pegos na Assets Store.)
 
@@ -42,8 +42,7 @@ Plate (Para o chão)
 Cubes (Para as modificações no terreno)
 Sphere (Bola de brinquedo do Isag)
 Quad (Para as placas)
-
-
+Cylinder (Gravetinho das placas)
 
 ## Gravidade aplicada:
 https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/55b90ebb-2b04-44ee-ae44-3af06b6fe6a7
