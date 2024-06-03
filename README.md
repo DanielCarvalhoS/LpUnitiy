@@ -40,11 +40,11 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## GameObjects Utilizados:
-Plate (Para o chão) 
-Cubes (Para as modificações no terreno)
-Sphere (Bola de brinquedo do Isag)
-Quad (Para as placas)
-Cylinder (Gravetinho das placas)
+- Plate (Para o chão) 
+- Cubes (Para as modificações no terreno)
+- Sphere (Bola de brinquedo do Isag)
+- Quad (Para as placas)
+- Cylinder (Gravetinho das placas)
 
 ## Gravidade aplicada:
 https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/55b90ebb-2b04-44ee-ae44-3af06b6fe6a7
