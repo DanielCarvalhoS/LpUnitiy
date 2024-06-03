@@ -17,6 +17,7 @@ ________________________________________________________________________________
 ![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/3be22c4b-7008-4e61-9d64-fc9e4a80b37f)
 
 - Sem perder o tempo, aproveitamos e já colocamos em prática a nossa natureza local. Adicionamos conjuntos de árvores. Assim o nosso pequeno amiguinho, passáro, pode ter o seu local de vivência. (Ambas árvores vieram da Assets Store do Unity, com uma adição de "plates" com o material escrito "área restrita" em algumas árvores.)
+- Texturas utilizadas foram as mesmas que haviam sido colocadas dentro dos Assets das árvores.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/9cee747e-cb0e-41a8-b6f6-2a368820b3d3)
