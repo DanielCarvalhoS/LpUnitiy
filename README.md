@@ -23,6 +23,7 @@ ________________________________________________________________________________
 ![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/9cee747e-cb0e-41a8-b6f6-2a368820b3d3)
 
 - Com a adição de uma pequena passagem água, também colocamos uma vegetação humilde, com várias gramas e plantas, assim deixando o ambiente mais e mais natural. (Água e Grama foram pegas da Assets Store.)
+- Placas feitas com GameObjects e textura foi pega da internet. 
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![image](https://github.com/DanielCarvalhoS/LpUnitiy/assets/162492997/19c0a5b7-b15e-4943-a7b4-7113ffa2f1c5)
