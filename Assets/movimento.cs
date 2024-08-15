@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class movimento : MonoBehaviour
@@ -13,6 +14,7 @@ public class movimento : MonoBehaviour
         m.z = -33;
         transform.position = m;
         m.Set(0, 0, 0);
+        
     }
 
     // Update is called once per frame
@@ -20,33 +22,57 @@ public class movimento : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.A))
         {
-            m.x = -0.01f;
-            transform.Translate(m);
+            if (transform.position.x > -4)
+            {
+                m.x = -0.01f;
+                transform.Translate(m);
+            }
         }
         if (Input.GetKey(KeyCode.D)) 
         {
-            m.x = 0.01f;
-            transform.Translate(m);
+            if (transform.position.x < 4)
+            {
+                m.x = 0.01f;
+                transform.Translate(m);
+            }
         }
         if (Input.GetKey(KeyCode.W)) 
         {
-            m.z = 0.01f;
-            transform.Translate(m);
+            if (transform.position.z < -30)
+            {
+                m.z = 0.01f;
+                transform.Translate(m);
+            }
         }
         if (Input.GetKey(KeyCode.S)) 
         {
-            m.z = -0.01f;
-            transform.Translate(m);
+            if (transform.position.z > -40)
+            {
+                m.z = -0.01f;
+                transform.Translate(m);
+            }
         }
         if(Input.GetKey(KeyCode.Space)) 
         {
-            m.y = 0.05f;
-            transform.Translate(m);
+                m.y = 0.05f;
+                transform.Translate(m);
         }
         if (Input.GetKey(KeyCode.LeftControl)) 
         {
             m.y = -0.05f;
             transform.Translate(m);
+        }
+        if (Input.GetKey(KeyCode.Q)) 
+        {
+            m.x = 0;
+            transform.Translate(m);
+            transform.Rotate(0f,5f,0f);
+        }
+        if (Input.GetKey(KeyCode.E))
+        {
+            m.x = 0;
+            transform.Translate(m);
+            transform.Rotate(0f, -5f, 0f);
         }
         m.Set(0, 0, 0);
     }
